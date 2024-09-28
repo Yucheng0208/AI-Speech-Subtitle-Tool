@@ -1,6 +1,6 @@
 # AI-Speech-to-Subtitle
 
-[English Version](#english) | [中文版](#中文)
+[English](#english) | [中文](#中文)
 
 ---
 
@@ -58,6 +58,6 @@ pip install -r requirements.txt
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the Apache License - see the [LICENSE](LICENSE) file for details.
 
-此專案採用 MIT 授權條款 - 詳情請參閱 [LICENSE](LICENSE) 文件。
+此專案採用 Apache 授權條款 - 詳情請參閱 [LICENSE](LICENSE) 文件。
