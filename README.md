@@ -55,7 +55,7 @@
 git clone https://github.com/your-username/AI-Speech-to-Subtitle.git
 cd AI-Speech-to-Subtitle
 pip install -r requirements.txt
-
+```
 ## License
 
 This project is licensed under the Apache License - see the [LICENSE](LICENSE) file for details.
