@@ -1,9 +1,5 @@
 # AI-Speech-to-Subtitle
 
-[English](#english) | [中文](#中文)
-
----
-
 ## 目錄 | Table of Contents
 
 - [AI-Speech-to-Subtitle](#ai-speech-to-subtitle)
